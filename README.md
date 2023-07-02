@@ -21,4 +21,4 @@ I Developed this Social Media Platform -FeedBuzz-llv:  where you can share your 
 </ol>
 
 <h1> Website Snapshots</h1>
-<img src=public/screenshot(41)>
+<img src=fb_frontend/public/screenshor(41)>
