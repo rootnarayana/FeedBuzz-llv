@@ -16,7 +16,7 @@ I Developed this Social Media Platform -FeedBuzz:  where you can share your life
 <h2>To get started with the FeedBuzz website locally, follow these steps:</h2>
 <ol>
   <li>Clone the repository:
-    git clone https://github.com/rootnarayna/FeedBuzz-llv.git
+    git clone https://github.com/rootnarayna/FeedBuzz-llv
   </li>
 </ol>
 
